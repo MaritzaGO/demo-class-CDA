@@ -1,9 +1,9 @@
 # demo-class-CDA
 Demo clase ciencia de los datos aplicada
 
-#Esta es un sección
+# Esta es un sección
 
-  ##Subsección
+  ## Subsección
   
     ### Sub-sub-subsección
 
@@ -18,6 +18,7 @@ df
 --
 
 Esta palabra esta en **negrita**
-Esta palabra es *ítalica
+
+Esta palabra es *italica*
 
 
